@@ -1,8 +1,8 @@
 class Dataline < Formula
   desc "App to chat with your data securely"
   homepage "https://github.com/RamiAwar/dataline"
-  url "https://github.com/RamiAwar/dataline/releases/download/v0.1.2/dataline-macos-latest.tar.zip"
-  sha256 "6e6e774744841c6d1fd846716c0449a4f7694baec10a55bdb04487f7b746ffa0"
+  url "https://github.com/RamiAwar/dataline/releases/download/v0.1.3-beta/dataline-macos-latest.tar.zip"
+  sha256 "8edcb018e9d26f0a06df6e4060b013785843959e1734003e604986ddf618f2d1"
   license "GPL-3.0-only"
 
   def install
