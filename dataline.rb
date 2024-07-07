@@ -1,8 +1,8 @@
 class Dataline < Formula
   desc "AI-powered data analysis and visualization tool that puts privacy first"
   homepage "https://github.com/RamiAwar/dataline"
-  url "https://github.com/RamiAwar/dataline/releases/download/v1.0.7/dataline-macos-latest.tar.zip"
-  sha256 "0ea42a50b539a33a904850eac03654ef999c0029aa8b5e749236e9b7a1811a8a"
+  url "https://github.com/RamiAwar/dataline/releases/download/v1.0.8/dataline-macos-latest.tar.zip"
+  sha256 "59a71fc8c702abc64052f822685d95610432e9fdd304ba7e2aa95843287ed758"
   license "GPL-3.0-only"
 
   def install
